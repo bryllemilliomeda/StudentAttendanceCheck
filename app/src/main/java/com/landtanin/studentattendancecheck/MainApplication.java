@@ -69,3 +69,10 @@ public class MainApplication extends Application {
         super.onTerminate();
     }
 }
+
+
+/**
+ * Created by landtanin on 2/11/2017 AD.
+ * 
+ * Try, BSIT4D
+ */
